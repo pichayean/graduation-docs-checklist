@@ -7,7 +7,7 @@ README สำหรับเช็กลิสต์เอกสารที่�
 
 ## 1. ส่งเล่มพี่แวว
 
-- [ ] ตรวจ Turnitin ผ่านที่ <= 20%
+- [ ] ตรวจ Turnitin ผ่านที่ <= 20%  [link](https://lib.dpu.ac.th/lib/readcontent/88)
 - [ ] เล่มฉบับ Word / PDF
 - [ ] แจ้งพี่แววว่าเลือกส่งงาาน Option 1, 2 หรือ 3
 - [ ] แนบ Slip Option 1, 2 หรือ 3
@@ -54,7 +54,11 @@ README สำหรับเช็กลิสต์เอกสารที่�
 
 ## Link ที่เกี่ยวข้อง 
 
-| หมวด | สถานะ |
+| เรื่อง | Link |
 |---|---|
 | IRB Documents Download link | [รายการเอกสาร](https://www.dpu.ac.th/human-research/human-social-documents.htm) |
-|  อบรมจริยธรรมออนไลน์  |  [อบรมจริยธรรมออนไลน์](https://www.dpu.ac.th/human-research/human-social-documents.htm)  |
+|  อบรมจริยธรรมออนไลน์  |  [อบรมจริยธรรมออนไลน์](https://dpulink.thinkific.com/courses/new-course-56)  |
+|  Turnitin  |  [link](https://lib.dpu.ac.th/lib/readcontent/88)  |
+
+
+
