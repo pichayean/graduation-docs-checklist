@@ -57,7 +57,7 @@ README สำหรับเช็กลิสต์เอกสารที่�
 
 | เรื่อง | Link |
 |---|---|
-| IRB Documents Download link | [รายการเอกสาร](https://www.dpu.ac.th/human-research/human-social-documents.htm) |
+| IRB Documents Download link | [รายการเอกสาร](https://www.dpu.ac.th/human-research/human-social-documents.html) |
 |  อบรมจริยธรรมออนไลน์  |  [อบรมจริยธรรมออนไลน์](https://dpulink.thinkific.com/courses/new-course-56)  |
 |  Turnitin  |  [link](https://lib.dpu.ac.th/lib/readcontent/88)  |
 
