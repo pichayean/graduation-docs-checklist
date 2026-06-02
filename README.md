@@ -8,7 +8,7 @@ README สำหรับเช็กลิสต์เอกสารที่�
 
 ## 1. ส่งเล่มพี่แวว
 
-- [ ] ตรวจ Turnitin ผ่านที่ <= 20%  [link](https://lib.dpu.ac.th/lib/readcontent/88)
+- [ ] ตรวจ Turnitin ผ่านที่ <= 20% คัดลอกบทที่1-5 ส่ง  [link](https://lib.dpu.ac.th/lib/readcontent/88)
 - [ ] เล่มหลังจากแก้ไขหลังจากสอบ Word / PDF
 - [ ] แจ้งพี่แววว่าเลือกส่งงาาน Option 1, 2 หรือ 3 (image below >>)
 - [ ] แนบ Slip Option 1, 2 หรือ 3 
