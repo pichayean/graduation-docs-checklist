@@ -16,7 +16,7 @@ README สำหรับเช็กลิสต์เอกสารที่�
 ---
 
 ## 2. IRB 
-> ส่ง email ไปที่ dpuhrec@dpu.ac.th
+> ส่ง email ไปที่ dpuhrec@dpu.ac.th พร้อมเอกสารตาม check lists
 
 ### 2.1 อบรมจริยธรรมออนไลน์
 
