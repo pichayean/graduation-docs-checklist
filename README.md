@@ -10,8 +10,8 @@ README สำหรับเช็กลิสต์เอกสารที่�
 
 - [ ] ตรวจ Turnitin ผ่านที่ <= 20%  [link](https://lib.dpu.ac.th/lib/readcontent/88)
 - [ ] เล่มหลังจากแก้ไขหลังจากสอบ Word / PDF
-- [ ] แจ้งพี่แววว่าเลือกส่งงาาน Option 1, 2 หรือ 3
-- [ ] แนบ Slip Option 1, 2 หรือ 3
+- [ ] แจ้งพี่แววว่าเลือกส่งงาาน Option 1, 2 หรือ 3 (image below >>)
+- [ ] แนบ Slip Option 1, 2 หรือ 3 
 
 ---
 
@@ -68,4 +68,5 @@ README สำหรับเช็กลิสต์เอกสารที่�
 <img width="680" height="361" alt="image" src="https://github.com/user-attachments/assets/a18962b5-6d71-44d8-b48f-1b31fd6be2b0" />
 <img width="724" height="823" alt="image" src="https://github.com/user-attachments/assets/94eade22-0b47-444a-a55e-67fa0937203d" />
 
+<img width="960" height="1706" alt="IMG_5377" src="https://github.com/user-attachments/assets/60d52da1-ddf4-4c6a-b236-968360980300" />
 
